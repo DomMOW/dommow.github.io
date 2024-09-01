@@ -41836,27 +41836,18 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 48px;
   margin: 11px auto 0;
 }
-
-.u-header .u-menu-1 {
-  margin: -37px 0 48px auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1.25rem;
-}
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
     width: 48px;
   }
-
-  .u-header .u-menu-1 {
-    width: auto;
-    margin-top: -37px;
-  }
 }
 
 
-
+@media (max-width: 575px) {
+  .u-header .u-image-1 {
+    margin-bottom: 43px;
+  }
+}
  .u-footer {
   background-image: none;
 }
