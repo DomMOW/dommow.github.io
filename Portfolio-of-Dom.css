@@ -1763,8 +1763,8 @@
 }
 
 .u-section-10 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 40px;
+  margin-top: 63px;
+  margin-bottom: 37px;
 }
 
 .u-section-10 .u-layout-cell-1 {
@@ -1837,6 +1837,11 @@
   font-size: 1.25rem;
   width: 388px;
   margin: 96px auto 0;
+}
+
+.u-section-10 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
